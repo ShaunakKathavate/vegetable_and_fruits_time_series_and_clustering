@@ -1,0 +1,102 @@
+Commodity,seasonal_strength,trend_strength,peak_month,n_days_used
+Guava,0.97,0.918,5,706
+Chilli Green(Akbare),0.97,0.945,2,560
+Drumstick,0.962,0.788,12,681
+Fish Fresh(Chhadi),0.955,0.543,3,650
+Papaya(Indian),0.904,0.772,1,710
+Squash(Round),0.902,0.107,7,710
+Fish Fresh(Bachuwa),0.9,0.0,5,650
+Turnip,0.896,0.864,5,614
+Tomato Small(Tunnel),0.885,0.056,9,714
+Sugarcane,0.883,0.0,5,672
+Mushroom(Button),0.883,0.54,8,714
+Potato Red(Indian),0.881,0.632,11,632
+Chilli Green(Bullet),0.874,0.219,10,648
+Bitter Gourd,0.811,0.222,2,2876
+French Bean(Hybrid),0.798,0.005,8,710
+Fish Fresh(Rahu),0.769,0.281,7,650
+Cucumber(Hybrid),0.757,0.121,11,711
+Okara,0.743,0.071,1,2889
+Potato Red,0.731,0.626,10,2889
+Raddish White(Hybrid),0.722,0.0,8,710
+Water Melon(Green),0.721,0.116,12,2886
+Sweet Potato,0.64,0.606,9,1022
+Fish Fresh(Mungari),0.64,0.0,12,650
+Carrot(Local),0.6,0.197,10,2889
+Pointed Gourd(Local),0.587,0.211,2,2646
+Lemon,0.577,0.613,4,862
+Capsicum,0.563,0.124,10,2889
+Sponge Gourd,0.548,0.302,12,1109
+Cauli Local,0.547,0.231,9,2889
+Pumpkin,0.516,0.541,9,2889
+Cauli Terai,0.504,0.273,11,1072
+Banana,0.498,0.407,5,2889
+Mango(Maldah),0.483,0.111,9,1061
+Sword Bean,0.482,0.106,6,1650
+Garlic Green,0.477,0.451,10,2875
+Cabbage(Local),0.477,0.223,11,2889
+Mint,0.466,0.613,1,2843
+Red Cabbbage,0.463,0.308,12,1823
+Spinach Leaf,0.455,0.265,11,2889
+Brd Leaf Mustard,0.437,0.094,9,2889
+Cress Leaf,0.434,0.343,11,2804
+Onion Dry (Indian),0.415,0.234,11,2889
+Brinjal Long,0.409,0.4,10,2889
+Cucumber(Local),0.402,0.313,2,2889
+Coriander Green,0.4,0.102,8,2889
+Grapes(Green),0.396,0.083,10,1516
+Onion Green,0.393,0.293,10,2889
+Fenugreek Leaf,0.39,0.101,11,2497
+Pear(Local),0.387,0.06,3,1774
+Ginger,0.383,0.727,9,2889
+Raddish Red,0.376,0.108,4,1119
+Brocauli,0.371,0.092,9,2216
+Papaya(Nepali),0.365,0.322,6,2411
+Mushroom(Kanya),0.353,0.044,8,2889
+Mustard Leaf,0.353,0.188,8,2739
+Sugarbeet,0.347,0.137,11,2849
+Bottle Gourd,0.345,0.275,3,2889
+Soyabean Green,0.343,0.225,1,1333
+Pineapple,0.323,0.732,10,2800
+Fennel Leaf,0.319,0.117,8,2604
+Clive Dry,0.313,0.418,12,1803
+Squash(Long),0.291,0.2,7,2648
+Barela,0.277,0.116,9,1873
+Green Peas,0.277,0.021,9,2060
+Smooth Gourd,0.277,0.043,1,2103
+Brinjal Round,0.276,0.217,3,2594
+Christophine,0.266,0.104,6,2578
+Tomato Small(Local),0.255,0.043,10,2889
+Chilli Green,0.253,0.184,10,2889
+Turnip A,0.251,0.142,10,2759
+Tomato Big(Nepali),0.222,0.232,11,2795
+Fish Fresh,0.201,0.578,11,2220
+Knolkhol,0.196,0.088,11,1701
+Garlic Dry Chinese,0.178,0.605,2,2889
+Raddish White(Local),0.175,0.158,9,2889
+Lettuce,0.169,0.095,8,2796
+French Bean(Local),0.156,0.168,8,2889
+Orange(Nepali),0.15,0.099,5,1797
+Garlic Dry Nepali,0.147,0.601,10,2803
+Chilli Dry,0.147,0.808,11,2889
+Snake Gourd,0.146,0.003,2,1479
+Asparagus,0.139,0.259,3,1345
+Sweet Orange,0.131,0.527,8,2739
+Lime,0.128,0.609,5,2889
+Bakula,0.122,0.252,10,1493
+Jack Fruit,0.121,0.116,11,1890
+Gundruk,0.119,0.704,6,2683
+Apple(Jholey),0.113,0.479,10,2868
+Cow pea(Long),0.109,0.111,11,2524
+Tamarind,0.098,0.931,2,2884
+Clive Green,0.085,0.144,1,1598
+Arum,0.082,0.429,5,2338
+Yam,0.066,0.416,10,1334
+Pomegranate,0.06,0.337,6,2830
+Celery,0.05,0.502,10,2659
+Potato White,0.034,0.182,11,2635
+Tofu,0.011,0.456,8,2854
+Neuro,0.0,0.545,12,1578
+Mombin,0.0,0.054,4,1922
+Parseley,0.0,0.627,5,2592
+Bamboo Shoot,0.0,0.205,4,2889

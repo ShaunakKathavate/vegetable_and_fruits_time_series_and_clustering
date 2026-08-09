@@ -1,0 +1,9 @@
+commodity,current_price,current_date,month,typical_median,typical_p10,typical_p90,cheaper_than_pct,verdict,message
+Ginger,85.0,2021-05-13,May,76.07,63.62,113.19,36.6,Roughly average pricing,Today's Ginger price (85.00) is cheaper than 37% of typical May prices — roughly average pricing.
+Cauli Local,37.5,2021-05-13,May,56.32,43.25,71.68,93.8,Good time to buy,Today's Cauli Local price (37.50) is cheaper than 94% of typical May prices — good time to buy.
+Cabbage(Local),22.5,2021-05-13,May,20.71,11.4,33.74,39.0,Roughly average pricing,Today's Cabbage(Local) price (22.50) is cheaper than 39% of typical May prices — roughly average pricing.
+Chilli Dry,325.0,2021-05-13,May,332.55,310.9,368.07,65.9,Roughly average pricing,Today's Chilli Dry price (325.00) is cheaper than 66% of typical May prices — roughly average pricing.
+Raddish White(Local),17.5,2021-05-13,May,29.1,23.52,46.47,96.4,Good time to buy,Today's Raddish White(Local) price (17.50) is cheaper than 96% of typical May prices — good time to buy.
+Potato Red,36.0,2021-05-13,May,44.85,39.75,53.69,94.1,Good time to buy,Today's Potato Red price (36.00) is cheaper than 94% of typical May prices — good time to buy.
+Bamboo Shoot,95.0,2021-05-13,May,97.43,70.53,109.16,60.8,Roughly average pricing,Today's Bamboo Shoot price (95.00) is cheaper than 61% of typical May prices — roughly average pricing.
+Banana,105.0,2021-05-13,May,114.25,105.31,123.0,90.3,Good time to buy,Today's Banana price (105.00) is cheaper than 90% of typical May prices — good time to buy.

@@ -1,0 +1,88 @@
+Commodity,seasonal_strength,trend_strength,peak_month
+Apple(Jholey),0.113,0.479,10
+Arum,0.082,0.429,5
+Asparagus,0.139,0.259,3
+Bakula,0.122,0.252,10
+Bamboo Shoot,0.0,0.205,4
+Banana,0.498,0.407,5
+Barela,0.277,0.116,9
+Bitter Gourd,0.811,0.222,2
+Bottle Gourd,0.345,0.275,3
+Brd Leaf Mustard,0.437,0.094,9
+Brinjal Long,0.409,0.4,10
+Brinjal Round,0.276,0.217,3
+Brocauli,0.371,0.092,9
+Cabbage(Local),0.477,0.223,11
+Capsicum,0.563,0.124,10
+Carrot(Local),0.6,0.197,10
+Cauli Local,0.547,0.231,9
+Cauli Terai,0.504,0.273,11
+Celery,0.05,0.502,10
+Chilli Dry,0.147,0.808,11
+Chilli Green,0.253,0.184,10
+Christophine,0.266,0.104,6
+Clive Dry,0.313,0.418,12
+Clive Green,0.085,0.144,1
+Coriander Green,0.4,0.102,8
+Cow pea(Long),0.109,0.111,11
+Cress Leaf,0.434,0.343,11
+Cucumber(Local),0.402,0.313,2
+Drumstick,0.962,0.788,12
+Fennel Leaf,0.319,0.117,8
+Fenugreek Leaf,0.39,0.101,11
+Fish Fresh,0.201,0.578,11
+French Bean(Local),0.156,0.168,8
+Garlic Dry Chinese,0.178,0.605,2
+Garlic Dry Nepali,0.147,0.601,10
+Garlic Green,0.477,0.451,10
+Ginger,0.383,0.727,9
+Grapes(Green),0.396,0.083,10
+Green Peas,0.277,0.021,9
+Guava,0.97,0.918,5
+Gundruk,0.119,0.704,6
+Jack Fruit,0.121,0.116,11
+Knolkhol,0.196,0.088,11
+Lemon,0.577,0.613,4
+Lettuce,0.169,0.095,8
+Lime,0.128,0.609,5
+Mango(Maldah),0.483,0.111,9
+Mint,0.466,0.613,1
+Mombin,0.0,0.054,4
+Mushroom(Kanya),0.353,0.044,8
+Mustard Leaf,0.353,0.188,8
+Neuro,0.0,0.545,12
+Okara,0.743,0.071,1
+Onion Dry (Indian),0.415,0.234,11
+Onion Green,0.393,0.293,10
+Orange(Nepali),0.15,0.099,5
+Papaya(Nepali),0.365,0.322,6
+Parseley,0.0,0.627,5
+Pear(Local),0.387,0.06,3
+Pineapple,0.323,0.732,10
+Pointed Gourd(Local),0.587,0.211,2
+Pomegranate,0.06,0.337,6
+Potato Red,0.731,0.626,10
+Potato White,0.034,0.182,11
+Pumpkin,0.516,0.541,9
+Raddish Red,0.376,0.108,4
+Raddish White(Local),0.175,0.158,9
+Red Cabbbage,0.463,0.308,12
+Smooth Gourd,0.277,0.043,1
+Snake Gourd,0.146,0.003,2
+Soyabean Green,0.343,0.225,1
+Spinach Leaf,0.455,0.265,11
+Sponge Gourd,0.548,0.302,12
+Squash(Long),0.291,0.2,7
+Sugarbeet,0.347,0.137,11
+Sugarcane,0.883,0.0,5
+Sweet Orange,0.131,0.527,8
+Sweet Potato,0.64,0.606,9
+Sword Bean,0.482,0.106,6
+Tamarind,0.098,0.931,2
+Tofu,0.011,0.456,8
+Tomato Big(Nepali),0.222,0.232,11
+Tomato Small(Local),0.255,0.043,10
+Turnip,0.896,0.864,5
+Turnip A,0.251,0.142,10
+Water Melon(Green),0.721,0.116,12
+Yam,0.066,0.416,10

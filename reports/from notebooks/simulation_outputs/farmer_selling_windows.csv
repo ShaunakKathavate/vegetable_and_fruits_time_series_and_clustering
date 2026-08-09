@@ -1,0 +1,11 @@
+Commodity,recommended_month,expected_price,p10,p90,cv
+Ginger,7,76.64,60.57,110.3,0.303
+Cauli Local,9,100.62,85.33,116.37,0.17
+Cabbage(Local),11,46.72,33.98,59.2,0.245
+Chilli Dry,12,346.8,325.16,370.18,0.076
+Raddish White(Local),10,44.29,35.9,57.86,0.243
+Potato Red,10,71.2,61.21,83.77,0.138
+Bamboo Shoot,5,84.09,53.67,106.02,0.344
+Banana,4,125.2,114.17,136.49,0.095
+Onion Dry (Indian),11,100.04,70.83,116.73,0.231
+Brd Leaf Mustard,9,88.95,69.43,112.41,0.233
