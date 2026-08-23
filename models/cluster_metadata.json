@@ -1,0 +1,35 @@
+{
+  "config": {
+    "tier1_min_span_days": 730,
+    "tier1_min_obs": 200,
+    "random_state": 42
+  },
+  "volatility_cluster_pipeline": {
+    "feature_columns": [
+      "cv",
+      "avg_daily_range_pct",
+      "log_price_mean"
+    ],
+    "applies_to": "all commodities",
+    "n_clusters": 2,
+    "cluster_names": {
+      "1": "Stable / Low Volatility",
+      "0": "High Volatility"
+    }
+  },
+  "seasonality_cluster_pipeline": {
+    "feature_columns": [
+      "cv",
+      "avg_daily_range_pct",
+      "log_price_mean",
+      "seasonal_strength",
+      "trend_strength"
+    ],
+    "applies_to": "Tier1_full_history commodities only",
+    "n_clusters": 2,
+    "cluster_names": {
+      "0": "Stable, Weakly Seasonal",
+      "1": "High-Volatility, Strongly Seasonal"
+    }
+  }
+}

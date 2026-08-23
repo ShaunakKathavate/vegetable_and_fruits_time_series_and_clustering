@@ -1,0 +1,68 @@
+{
+  "final_model": "TFT",
+  "target_commodity": "Apple(Jholey)",
+  "beats_strongest_baseline": true,
+  "candidate_backtest_mape": {
+    "TFT": 18.55,
+    "LSTM": 20.31,
+    "Prophet": 24.42,
+    "SARIMA": 76.7
+  },
+  "baseline_backtest_mape": {
+    "Moving Average": 24.9,
+    "Naive Seasonal": 30.49
+  },
+  "backtest_cache_source": "reports\\from notebooks\\forecasting_outputs\\backtest_all_commodities.csv",
+  "final_horizon_weeks": 12,
+  "artifact_path": "models\\forecast_final_model",
+  "forecast": [
+    {
+      "date": "2021-05-23",
+      "forecast": 259.13
+    },
+    {
+      "date": "2021-05-30",
+      "forecast": 259.78
+    },
+    {
+      "date": "2021-06-06",
+      "forecast": 250.9
+    },
+    {
+      "date": "2021-06-13",
+      "forecast": 247.03
+    },
+    {
+      "date": "2021-06-20",
+      "forecast": 243.3
+    },
+    {
+      "date": "2021-06-27",
+      "forecast": 240.75
+    },
+    {
+      "date": "2021-07-04",
+      "forecast": 227.82
+    },
+    {
+      "date": "2021-07-11",
+      "forecast": 233.39
+    },
+    {
+      "date": "2021-07-18",
+      "forecast": 238.53
+    },
+    {
+      "date": "2021-07-25",
+      "forecast": 241.84
+    },
+    {
+      "date": "2021-08-01",
+      "forecast": 242.99
+    },
+    {
+      "date": "2021-08-08",
+      "forecast": 243.78
+    }
+  ]
+}
