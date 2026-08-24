@@ -36,12 +36,12 @@ fc = forecast[forecast["unique_id"] == selected].sort_values("ds")
 
 fig = go.Figure()
 fig.add_scatter(x=hist.index, y=hist.values, mode="lines", name="Historical (last 52 weeks)",
-                 line=dict(color="black"))
+                 line=dict(color="#F0EAD6", width=2))
 if len(hist) and len(fc):
     fig.add_scatter(x=[hist.index[-1], fc["ds"].iloc[0]], y=[hist.iloc[-1], fc["forecast"].iloc[0]],
                      mode="lines", line=dict(color="royalblue", dash="dash"), opacity=0.4,
                      showlegend=False)
-    fig.add_vline(x=hist.index[-1], line=dict(color="gray", dash="dash"))
+    fig.add_vline(x=hist.index[-1], line=dict(color="#AAAAAA", dash="dash"))
 fig.add_scatter(x=fc["ds"], y=fc["forecast"], mode="lines+markers",
                  name=f"Forecast ({meta['final_model']})", line=dict(color="royalblue"))
 fig.update_layout(title=f"{selected} — {len(fc)}-Week Forecast", yaxis_title="Average price",
